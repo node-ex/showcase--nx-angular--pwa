@@ -1,4 +1,12 @@
-# template--nx-angular--basic
+# showcase--nx-angular--pwa
+
+## Showcase
+
+Use PWA generator in a new app:
+
+```bash
+npx nx g @angular/pwa:ng-add --project app-angular-1
+```
 
 ## Local development
 
